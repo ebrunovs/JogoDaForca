@@ -1,0 +1,5 @@
+BOLSA;Objeto que guarda coisas
+PYTHON;Linguagem de programação ruim
+JAVA;Linguagem de programação ruim
+BRASIL;País
+PAIA;Algo ruim
