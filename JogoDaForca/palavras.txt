@@ -1,5 +1,153 @@
 BOLSA;Objeto que guarda coisas
 PYTHON;Linguagem de programação ruim
-JAVA;Linguagem de programação ruim
 BRASIL;País
 PAIA;Algo ruim
+CACHORRO;Animal de estimação
+ELEFANTE;Animal terrestre gigante
+ABACAXI;Fruta tropical
+COMPUTADOR;Dispositivo eletrônico para processamento de dados
+BICICLETA;Veículo de duas rodas
+FLORESTA;Área extensa coberta por árvores
+MONTANHA;Formação geológica elevada
+OCEANO;Grande extensão de água salgada
+AVIAO;Meio de transporte aéreo
+CADERNO;Objeto para escrever
+LIVRO;Obra escrita ou impressa
+MESA;Móvel para apoio de objetos
+CADEIRA;Assento com encosto
+SOL;Estrela que ilumina o sistema solar
+LUA;Satélite natural da Terra
+ESTRELA;Corpo celeste luminoso
+BOLA;Objeto esférico usado em diversos esportes
+CARTA;Mensagem escrita enviada a alguém
+LAPIS;Instrumento para escrever ou desenhar
+CANETA;Instrumento para escrever com tinta
+PINCel;Instrumento para pintura
+TINTA;Substância líquida usada para colorir
+RABO;Extremidade posterior de alguns animais
+NARIZ;Órgão do olfato e respiração
+DENTE;Pequeno osso duro na boca
+CABELO;Fios que crescem no couro cabeludo
+PELE;Camada externa do corpo humano
+UNHA;Estrutura de queratina nas extremidades dos dedos
+BARRIGA;Parte do corpo onde se localiza o estômago
+PULMAO;Órgão respiratório
+CORAÇÃO;Órgão central do sistema circulatório
+FIGADO;Órgão que desempenha várias funções no corpo
+RIM;Órgão responsável pela filtragem do sangue
+SANGUE;Fluido vital do corpo humano
+OSso;Estrutura rígida que forma o esqueleto
+MUSCULO;Tecido do corpo responsável pelo movimento
+BRAIN;Orgão que coordena as funções do corpo
+ORELHA;Órgão auditivo externo
+PESCOÇO;Parte do corpo entre a cabeça e os ombros
+OMBRO;Parte do corpo entre o pescoço e o braço
+BRAÇO;Membro superior do corpo humano
+COTOVELO;Articulação entre o braço e o antebraço
+MAO;Parte do corpo com dedos
+PERNA;Membro inferior do corpo humano
+JOELHO;Articulação entre a coxa e a perna
+PE;Parte terminal da perna
+DEDo;Parte do corpo que forma as extremidades dos membros
+LINGUA;Órgão muscular no interior da boca
+Boca;Abertura pela qual os seres humanos comem e falam
+CELEBRACAO;Comemoração de um evento especial
+FERIADO;Dia de descanso ou comemoração
+FESTA;Evento social comemorativo
+CASAMENTO;Cerimônia de união entre duas pessoas
+ANIVERSARIO;Data de celebração do nascimento
+FORMATURA;Cerimônia de conclusão de estudos
+NATAL;Festa cristã de celebração do nascimento de Jesus
+PASCOA;Festa religiosa cristã que celebra a ressurreição de Jesus
+CARNAVAL;Festa popular com desfiles e festividades
+CIRCO;Espetáculo de entretenimento com artistas e animais
+TEATRO;Local para apresentações artísticas
+CINEMA;Local para exibição de filmes
+PARQUE;Área de recreação e lazer ao ar livre
+PRAIA;Faixa de areia à beira-mar
+MONTANHA;Formação geológica elevada
+RIO;Curso d'água natural
+LAGO;Corpo d'água cercado por terra
+PISCINA;Construção para natação e lazer
+CAMPO;Área de terreno aberto
+JARDIM;Área cultivada com plantas ornamentais
+ESCOLA;Instituição de ensino
+UNIVERSIDADE;Instituição de ensino superior
+BIBLIOTECA;Local para acesso a livros e informação
+HOSPITAL;Instituição de cuidados de saúde
+SUPERMERCADO;Local de venda de produtos alimentícios
+RESTAURANTE;Local para refeições
+CADEIA;Instituição para detenção de criminosos
+MERCADO;Local para compra e venda de produtos
+PRACA;Área pública com jardins e bancos
+BANCO;Instituição financeira
+CORREIO;Serviço postal
+ESQUADRAO;Grupo de pessoas ou veículos organizados
+EXERCITO;Forças militares de um país
+MARINHA;Forças navais de um país
+AVIACAO;Força aérea de um país
+POLICIA;Força responsável pela segurança pública
+BOMBEIRO;Profissional que combate incêndios
+EMBAIXADA;Representação diplomática de um país
+GOVERNO;Autoridade política de um país
+PRESIDENTE;Chefe de Estado
+MINISTRO;Membro do governo responsável por uma área
+SENADOR;Membro de uma casa legislativa
+DEPUTADO;Membro de uma casa legislativa
+JUIZ;Autoridade responsável pela aplicação da lei
+ADVOGADO;Profissional que representa legalmente uma pessoa
+JORNAL;Publicação periódica com notícias e informações
+REVISTA;Publicação periódica com artigos e fotos
+RADIO;Meio de comunicação sonora
+TELEVISAO;Meio de comunicação audiovisual
+INTERNET;Rede global de computadores
+COMPUTACAO;Ciência da computação
+INFORMATICA;Tecnologia da informação
+CIENCIA;Conhecimento sistemático
+MATEMATICA;Ciência dos números e formas
+HISTORIA;Estudo do passado
+GEOGRAFIA;Estudo da superfície terrestre
+BIOLOGIA;Estudo da vida e dos seres vivos
+FISICA;Ciência das leis da natureza
+QUIMICA;Ciência da matéria e suas transformações
+LITERATURA;Estudo de obras literárias
+ARTE;Expressão criativa e estética
+MUSICA;Manifestação artística sonora
+CULTURA;Conjunto de conhecimentos e costumes
+TRADICAO;Prática cultural transmitida de geração em geração
+RELIGIAO;Crença e prática espiritual
+ESPIRITUALIDADE;Busca de sentido e conexão espiritual
+FILOSOFIA;Estudo do conhecimento e da existência
+ETICA;Estudo dos princípios morais
+POLITICA;Ciência da organização social
+ECONOMIA;Estudo da produção e distribuição de bens
+SOCIOLOGIA;Estudo da sociedade e do comportamento humano
+PSICOLOGIA;Estudo da mente e do comportamento
+EDUCACAO;Processo de ensino e aprendizagem
+SAUDE;Estado de bem-estar físico e mental
+FAMILIA;Grupo social fundamental na sociedade
+AMIZADE;Relação afetuosa entre pessoas
+AMOR;Sentimento profundo de afeição
+ODIO;Sentimento intenso de aversão
+MEDO;Sentimento de apreensão
+ALEGRIA;Sentimento de felicidade
+TRISTEZA;Sentimento de melancolia
+RAIVA;Sentimento de indignação
+ESPANTO;Sentimento de surpresa intensa
+ESPERANCA;Sentimento de expectativa positiva
+DESESPERO;Sentimento de extrema tristeza
+SOLIDAO;Sentimento de estar só
+INDEPENDENCIA;Condição de autonomia
+LIBERDADE;Condição de ausência de restrições
+JUSTICA;Princípio moral de equidade
+HONESTIDADE;Qualidade de ser verdadeiro e íntegro
+RESPONSABILIDADE;Dever de cumprir compromissos
+CONFIANCA;Fé na integridade de alguém
+RESPEITO;Consideração e deferência
+TOLERANCIA;Aceitação das diferenças
+IGUALDADE;Condição de ser igual em direitos
+DIVERSIDADE;Variedade e diferença
+PAZ;Estado de harmonia
+GUERRA;Conflito armado
+VITORIA;Triunfo ou sucesso
+DERROTA;Fracasso ou insucesso
